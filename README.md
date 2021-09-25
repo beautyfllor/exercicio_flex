@@ -1,1 +1,2 @@
-# exercicio_flex
+# Exercicio_flex
+Praticando prorpiedades do flex. 
